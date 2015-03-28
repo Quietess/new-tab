@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-
-<iframe src="http://duckduckgo.com/search.html?prefill=DuckDuckGo" id="search" style="overflow:hidden;margin:0;margin-left:420;padding:0;width:408px;height:40px;" frameborder="0"></iframe>
-
+<div class="search">
+<iframe src="http://duckduckgo.com/search.html?prefill=DuckDuckGo" style="overflow:hidden;padding:0;width:408px;height:40px;" frameborder="0"></iframe>
+</div>
 </body>

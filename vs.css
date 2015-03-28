@@ -21,9 +21,8 @@ a:hover {
 }
 
 .welcome {
-margin-top: 30px;
-margin-left: 470px;
-color: #FFFFFF;
+            text-align: center;
+            color: #FFFFFF;
 }
 
 h1 {
@@ -35,8 +34,12 @@ h1 {
             position: relative;
             width: 600px;
             height: 270px;
-            margin-left: 330;
+            margin: 0 auto;
             border: 1px solid #000000;
             border-opacity: 50%;
-            display:inline-block;
+
+}
+.search {
+            margin: 0 auto;
+            text-align: center;
 }
