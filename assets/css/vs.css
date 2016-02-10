@@ -1,5 +1,5 @@
 body {
-  background-color: #ECF3FF;
+  background-color: #D1EEEE;
   font-family: "Helvetica Neue", Arial, sans-serif;
   text-align: center;
 }
@@ -39,7 +39,7 @@ abbr[data-original-title] {
   transition: all 0.2s ease-in-out;
 }
 .container:hover {
-  border: 1px solid #d3d3d3;
+  border: 1px solid #5F9F9F;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
@@ -67,7 +67,7 @@ position:relative;
 display: inline-block;
 }
 .link:hover {
-  border: 1px solid #d3d3d3;
+  border: 1px solid #5F9F9F;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
@@ -92,13 +92,4 @@ a:hover {
     text-decoration: none;
     color: #000000;
 	font-size: 16px;
-}
-
-.welcome {
-            text-align: center;
-            color: #FFFFFF;
-}
-
-h1 {
-            font: bold 72px arial, sans-serif;
 }
